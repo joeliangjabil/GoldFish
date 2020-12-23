@@ -1,0 +1,13 @@
+curl -u joeliangjabil:Paula1027@7 https://api.github.com
+
+curl --header "Authorization: tokrn 6d615c540066d561b1217c78af5980334f8ebda3" https://api.github.com
+
+curl --header "Authorization: tokrn 6d615c540066d561b1217c78af5980334f8ebda3" https://api.github.com/repos/joeliangjabil/BugTracker
+
+
+curl --header "Authorization: tokrn 6d615c540066d561b1217c78af5980334f8ebda3" https://api.github.com/users/joeliangjabil
+
+
+curl --header "Authorization: tokrn 6d615c540066d561b1217c78af5980334f8ebda3" https://api.github.com/users/joeliangjabil/repos -o output.txt
+
+curl --header "Authorization: tokrn 6d615c540066d561b1217c78af5980334f8ebda3" https://api.github.com/users/joeliangjabil/commits 
